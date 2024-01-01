@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-16%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-17%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -259,10 +259,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Find the Index of the First Occurrence in a String</td>
+      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="blank">Find the Index of the First Occurrence in a String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
