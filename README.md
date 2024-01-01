@@ -285,10 +285,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Is Subsequence</td>
+      <td align="center"><a href="https://leetcode.com/problems/is-subsequence/" target="blank">Is Subsequence</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
