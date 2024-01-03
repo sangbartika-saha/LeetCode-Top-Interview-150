@@ -391,10 +391,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Ransom Note</td>
+      <td align="center"><a href="https://leetcode.com/problems/ransom-note/" target="blank">Ransom Note</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
