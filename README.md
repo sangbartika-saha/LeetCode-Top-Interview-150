@@ -398,10 +398,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Isomorphic Strings</td>
+      <td align="center"><a href="https://leetcode.com/problems/isomorphic-strings/" target="blank">Isomorphic Strings</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
