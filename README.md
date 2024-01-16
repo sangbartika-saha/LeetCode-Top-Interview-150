@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-21%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-22%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -440,10 +440,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Contains Duplicate II</td>
+      <td align="center"><a href="https://leetcode.com/problems/contains-duplicate-ii/"target="blank">Contains Duplicate II</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
