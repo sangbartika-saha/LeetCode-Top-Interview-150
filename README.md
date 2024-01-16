@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-23%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-24%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -405,10 +405,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Word Pattern</td>
+      <td align="center"><a href="https://leetcode.com/problems/word-pattern/" target="blank">Word Pattern</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
