@@ -546,10 +546,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Merge Two Sorted Lists</td>
+      <td align="center"><a href="https://leetcode.com/problems/merge-two-sorted-lists/"target="blank">Merge Two Sorted Lists</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
