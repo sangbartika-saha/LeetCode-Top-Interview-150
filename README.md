@@ -628,17 +628,17 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Invert Binary Tree</td>
+      <td align="center"><a href="https://leetcode.com/problems/invert-binary-tree/"target="blank">Invert Binary Tree</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Symmetric Tree</td>
+      <td align="center"><a href="https://leetcode.com/problems/symmetric-tree/submissions/1152615730/"target="blank">Symmetric Tree</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
