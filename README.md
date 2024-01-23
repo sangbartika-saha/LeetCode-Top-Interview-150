@@ -670,10 +670,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Path Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/path-sum/"target="blank">Path Sum</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
