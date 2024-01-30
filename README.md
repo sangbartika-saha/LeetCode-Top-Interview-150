@@ -642,17 +642,17 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Construct Binary Tree from Preorder and Inorder Traversal</td>
+      <td align="center"><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"target="blank">Construct Binary Tree from Preorder and Inorder Traversal</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Construct Binary Tree from Inorder and Postorder Traversal</td>
+      <td align="center"><a href="" target="blank">Construct Binary Tree from Inorder and Postorder Traversal</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -743,10 +743,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Minimum Absolute Difference in BST</td>
+      <td align="center"><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/" target="blank">Minimum Absolute Difference in BST</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
