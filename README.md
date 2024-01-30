@@ -698,10 +698,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Count Complete Tree Nodes</td>
+      <td align="center"><a href="https://leetcode.com/problems/count-complete-tree-nodes/"target="blank">Count Complete Tree Nodes</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
