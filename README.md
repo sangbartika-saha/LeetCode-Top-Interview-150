@@ -757,10 +757,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Validate Binary Search Tree</td>
+      <td align="center"><a hrref="https://leetcode.com/problems/validate-binary-search-tree/" target="blank">Validate Binary Search Tree</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
