@@ -717,10 +717,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Average of Levels in Binary Tree</td>
+      <td align="center"><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/"target="blank">Average of Levels in Binary Tree</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
