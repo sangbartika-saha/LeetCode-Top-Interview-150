@@ -459,10 +459,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Summary Ranges</td>
+      <td align="center"><a href="https://leetcode.com/problems/summary-ranges/" target="blank">Summary Ranges</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
