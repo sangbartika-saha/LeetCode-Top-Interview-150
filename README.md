@@ -816,10 +816,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Snakes and Ladders</td>
+      <td align="center"><a href="https://leetcode.com/problems/snakes-and-ladders/"target="blank">Snakes and Ladders</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
