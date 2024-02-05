@@ -842,10 +842,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Implement Trie (Prefix Tree)</td>
+      <td align="center"><a href="https://leetcode.com/problems/implement-trie-prefix-tree/"target="blank">Implement Trie (Prefix Tree)</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
