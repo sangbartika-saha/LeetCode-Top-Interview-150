@@ -757,7 +757,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a hrref="https://leetcode.com/problems/validate-binary-search-tree/" target="blank">Validate Binary Search Tree</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/validate-binary-search-tree/" target="blank">Validate Binary Search Tree</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
@@ -974,11 +974,11 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Search Insert Position</td>
+      <td align="center"><a href="https://leetcode.com/problems/search-insert-position/"target="blank">Search Insert Position</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Search a 2D Matrix</td>
