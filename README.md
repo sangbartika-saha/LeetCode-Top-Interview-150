@@ -1129,14 +1129,14 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Sqrt(x)</td>
+      <td align="center"><a href = "https://leetcode.com/problems/sqrtx/"target = "blank">Sqrt(x)</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Pow(x, n)</td>
+      <td align="center"><a href ="https://leetcode.com/problems/powx-n/" target = "blank">Pow(x, n)</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
