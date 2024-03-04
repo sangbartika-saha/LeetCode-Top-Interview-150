@@ -1075,10 +1075,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Number of 1 Bits</td>
+      <td align="center"><a href="https://leetcode.com/problems/number-of-1-bits/description/"target="blank">Number of 1 Bits</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
