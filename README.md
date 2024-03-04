@@ -1061,10 +1061,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Add Binary</td>
+      <td align="center"><a href="https://leetcode.com/problems/add-binary/"target="blank">Add Binary</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
