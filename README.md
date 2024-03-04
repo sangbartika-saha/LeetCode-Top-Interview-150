@@ -1089,10 +1089,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Single Number II</td>
+      <td align="center"><a href="https://leetcode.com/problems/single-number-ii/" target="blank">Single Number II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
