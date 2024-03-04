@@ -1108,10 +1108,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Palindrome Number</td>
+      <td align="center"><a href= "https://leetcode.com/problems/palindrome-number/submissions/1193348521/" target="blank">Palindrome Number</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
